@@ -27,6 +27,7 @@ struct eeprom EEMEM test[]= {{
 
 
 int main() {
+    //added comments 
   
                 return 1;
 }
